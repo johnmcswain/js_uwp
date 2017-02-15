@@ -1,0 +1,16 @@
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Debug\ReverseMap\resources.pri
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Debug\AppxManifest.xml
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Debug\js_uwp.build.appxrecipe
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\ResourceHandlingTask.state
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\priconfig.xml
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\priconfig.xml.intermediate
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\layout.resfiles
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\layout.resfiles.intermediate
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\resources.resfiles
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\resources.resfiles.intermediate
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\pri.resfiles
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\pri.resfiles.intermediate
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\qualifiers.txt
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Debug\ProjectArchitectures.txt
