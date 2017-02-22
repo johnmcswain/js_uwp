@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOHNMCSWAINB725</Machine>
+    <WindowsUser>johnmcswain</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Dell-PC|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b662104d-4123-4718-a9e0-8db11ddd5552</PackageIdentityName>
+    <PackageIdentityPublisher>CN=johnmcswain</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bld\Dell-PC\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>C4F3EDBD6A3123EAF71DD1263E0B39D395F39172220FEA48E51E9959CB63AF78</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b662104d-4123-4718-a9e0-8db11ddd5552_1.0.0.0_neutral__nh3g1xe9eak1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b662104d-4123-4718-a9e0-8db11ddd5552_nh3g1xe9eak1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b662104d-4123-4718-a9e0-8db11ddd5552</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=johnmcswain</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Dell-PC\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-22T19:12:19.152</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-02-22T19:10:09.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T14:43:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-02-22T19:10:38.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\js\vue.js">
+      <PackagePath>js\vue.js</PackagePath>
+      <Modified>2017-02-22T18:55:16.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-02-15T14:58:15.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\package.json">
+      <PackagePath>package.json</PackagePath>
+      <Modified>2017-02-16T01:25:11.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Dell-PC\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-22T19:12:19.050</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

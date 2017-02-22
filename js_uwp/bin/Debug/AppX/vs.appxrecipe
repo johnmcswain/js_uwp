@@ -22,19 +22,19 @@
     <RegisteredPackageID>b662104d-4123-4718-a9e0-8db11ddd5552</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=johnmcswain</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-15T14:59:05.805</Modified>
+      <Modified>2017-02-16T01:06:55.323</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2017-02-15T14:58:15.795</Modified>
+      <Modified>2017-02-16T01:06:36.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2017-02-15T15:13:59.492</Modified>
+      <Modified>2017-02-16T01:06:48.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\css\default.css">
       <PackagePath>css\default.css</PackagePath>
@@ -81,7 +81,7 @@
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-15T14:59:05.536</Modified>
+      <Modified>2017-02-16T01:06:55.010</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

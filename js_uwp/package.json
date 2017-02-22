@@ -1,0 +1,19 @@
+{
+  "name": "js_uwp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmcswain/js_uwp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmcswain/js_uwp/issues"
+  },
+  "homepage": "https://github.com/johnmcswain/js_uwp#readme",
+  "description": ""
+}
