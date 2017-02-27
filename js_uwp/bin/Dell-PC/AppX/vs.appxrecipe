@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Dell-PC\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-22T19:12:19.152</Modified>
+      <Modified>2017-02-26T21:33:24.984</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2017-02-22T19:10:09.601</Modified>
+      <Modified>2017-02-27T12:40:48.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2017-02-22T19:10:38.804</Modified>
+      <Modified>2017-02-22T19:14:23.990</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\js\vue.js">
       <PackagePath>js\vue.js</PackagePath>
@@ -89,7 +89,7 @@
     <AppxPackagedFile Include="C:\Users\johnmcswain\Desktop\js_uwp\js_uwp\bin\Dell-PC\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-22T19:12:19.050</Modified>
+      <Modified>2017-02-26T21:33:24.931</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
